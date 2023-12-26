@@ -1,4 +1,4 @@
-# Modern TypeScript, Node.js, Express template
+# Modern minimalistic TypeScript, Node.js, Express template
 
 This is a template for starting back-end projects with Node.js, TypeScript, Express, and Jest.
 
